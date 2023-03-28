@@ -34,7 +34,7 @@ def main():
             client.load_table_from_dataframe(df, table, job_config=job_config)
 
         else:
-            print(r.status_code, t)
+            print(r.status_code)
         time.sleep(CRAWL_INTERVAL)
 
 
