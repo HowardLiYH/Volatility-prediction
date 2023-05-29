@@ -5,3 +5,5 @@ Applying the Recurrent Neural Network LSTM method to analyze the bid / ask info 
 This is a final project done after 9 weeks Data Science Bootcamp at Le Wagon.
 
 Presented by Students Howard Li (Product Manager), Jessica Chuh (Full Stack Developer), and Jack Wu (Model Architect).
+
+[Le Wagon Final Project.pdf](https://github.com/HowardLiYH/Volatility-prediction/files/11588135/Le.Wagon.Final.Project.1.pdf)
